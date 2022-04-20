@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MyIntenApp</string>
+    <string name="btn1">Pindah activity 1</string>
+    <string name="btn2">pindah activity data</string>
+    <string name="btn4">Pindah activity Dial Number</string>
+    <string name="btn3">Pindah activity Diterima</string>
+    <string name="btn5">Pindah activity Move</string>
+    <string name="text1">BOLU BAYAM</string>
+    <string name="text2">1. Alat dan bahan</string>
+    <string name="text3">A. Alat</string>
+    <string name="text4">- Panci</string>
+    <string name="text5">- Baskom</string>
+    <string name="text6">- Loyang</string>
+    <string name="text7">- Mixer</string>
+    <string name="text8">- Blender</string>
+    <string name="text9">- Alat cupcake kertas</string>
+    <string name="textb">B. Bahan</string>
+    <string name="textb1">- Bayam               = 100 gram</string>
+    <string name="textb2">- Tepung Terigu       = 60 gram</string>
+    <string name="textb3">- Telur Ayam          = 4 butir</string>
+    <string name="textb4">- Tepung Maizena      = 10 gram</string>
+    <string name="textb5">- Gula Pasir          = 100 gram</string>
+    <string name="textb6">- Vanili              = 2 sdteh</string>
+    <string name="textb7">- Susu Bubuk          = 10 gtam</string>
+    <string name="textb8">- Pasta Pandan        = 1 sdteh</string>
+    <string name="textb9">- Minyak Goreng       = 5 sdmakan</string>
+    <string name="textb10">- Garam              = Secukupnya</string>
+    <string name="text10">2. Langkah Kerja</string>
+    <string name="no1">1. </string>
+    <string name="no2">2.</string>
+    <string name="no3">3.</string>
+    <string name="no4">4.</string>
+    <string name="no5">5.</string>
+    <string name="no6">6.</string>
+    <string name="no1text1">Blender bayam kukus dengan minyak goreng. Sisihkan. Campur tepung terigu, Tepung maizena, Susu bubuk, Garam dan vanilli, lalu ayak. Sisihkan.</string>
+    <string name="no2text2">Panaskan kukusan dan jangan lupa tutup dilapisi kain bersih, Siapkan loyang yang sudah di olesi sedikit minyak goreng. Sisihkan.</string>
+    <string name="no3text3">Mixer telur dan gula pasir dengan kecepatan tinggi sampai putih berjejak</string>
+    <string name="no4text4">Turunkan kecepatan rendah mixer kemudian masukan campuran bahan kering sedikit demi sedikit, setelah rata matikan mixer.</string>
+    <string name="no5text5">Terakhir masukan bayam halus dan pasta pandan aduk rata menggunakan spatula.</string>
+    <string name="no6text6">Tuang dalam loyang dan kukus kurang lebih 20 menit</string>
+
+</resources>

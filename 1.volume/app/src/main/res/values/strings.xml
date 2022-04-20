@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VOLUME</string>
+    <string name="lenght">Panjang Bidang (cm3)</string>
+    <string name="width">Lebar Bidang (cm3)</string>
+    <string name="height">Tinggi Bidang(cm3)</string>
+    <string name="calculate">Volume (cm3)</string>
+    <string name="result">hasil</string>
+</resources>

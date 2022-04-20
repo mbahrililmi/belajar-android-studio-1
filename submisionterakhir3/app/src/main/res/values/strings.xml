@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">How to Make Food</string>
+    <string name="heroes_name">heroes nama</string>
+    <string name="detail">detail</string>
+    <string name="list">list</string>
+    <string name="grid">grid</string>
+    <string name="with_cardview">with cardview</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>

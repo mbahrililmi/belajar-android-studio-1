@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="Baked_Nachos_with_Marinara_Sauce_and_Cheese">
+        Baked_Nachos_with_Marinara_Sauce_and_Cheese
+    </drawable>
+    <drawable name="Apple_Strudle">Apple_Strudle</drawable>
+    <drawable name="Samyang_masak_carbonara">Samyang_masak_carbonara</drawable>
+    <drawable name="Bolognese_Grilled_Pasta">Bolognese_Grilled_Pasta</drawable>
+    <drawable name="Beef_Burger">Beef_Burger</drawable>
+    <drawable name="Zuppa_Soup">Zuppa_Soup</drawable>
+    <drawable name="Portuguese_Egg_Tarts">Portuguese_Egg_Tarts</drawable>
+    <drawable name="Spaghetti_Carbonara_Simple">Spaghetti_Carbonara_Simple</drawable>
+    <drawable name="Macaroni_schotel">Macaroni_schotel</drawable>
+</resources>
